@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    consul:
+      enabled: false
+    vault:
+      enabled: false
+
+server:
+  port: 8082
